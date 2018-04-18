@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="wSpecXY.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="bidu_grant_type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">client_credentials</Value>
+    </Setting>
+    <Setting Name="bidu_client_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dw6P5IePRc4kQXH6aVZfQXZj</Value>
+    </Setting>
+    <Setting Name="bidu_client_secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wucm4GXSvKhZpVFZOopfdxvFDNAfXmVq</Value>
+    </Setting>
+    <Setting Name="bidu_access_token" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bidu_cuid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="bidu_lan" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zh</Value>
+    </Setting>
+    <Setting Name="ibot_app_key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">288F2S09NyBs</Value>
+    </Setting>
+    <Setting Name="ibot_app_secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jbF17nlMnzHN7UZH59Sw</Value>
+    </Setting>
+    <Setting Name="ibot_user_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">api-vxxnrhzs</Value>
+    </Setting>
+    <Setting Name="syn_voice_id" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="syn_voice_speed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="cfg_recog" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="cfg_intrp_ibot" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cfg_wave_fmt" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="cfg_intrp_simsimi" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="local_serialize" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
